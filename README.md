@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # java-irr
 
 java版的IRR和XIRR，实现内部收益率的计算
@@ -29,3 +30,7 @@ https://github.com/RayDeCampo/java-xirr
 
 [Office XIRR](https://support.office.com/zh-cn/article/XIRR-%E5%87%BD%E6%95%B0-de1242ec-6477-445b-b11b-a303ad9adc9d)
 
+=======
+# MyProgram
+Best Program
+>>>>>>> 328de46099472ed809b4841dda6dfb8cb20df707
